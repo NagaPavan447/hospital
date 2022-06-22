@@ -1,0 +1,7 @@
+step-1:
+cd C:\Masters\Database Theory\Project\Hospital-Management-System-dbmsminiproject-main\Hospital-Management-System-dbmsminiproject-main\hospital system
+
+
+
+step-2:
+python PROJECT/main.py
